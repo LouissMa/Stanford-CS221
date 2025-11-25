@@ -6,7 +6,7 @@ which are made using [edtrace](https://github.com/percyliang/edtrace).
 Each lecture consists of stepping through Python files which you can either
 view in your browser on the links below or run locally if you clone this
 repository.  If you notice any problems or have any questions, please file an
-GitHub issue or submit a pull request.
+GitHub issue or submit a pull request..
 
 To run locally:
 
